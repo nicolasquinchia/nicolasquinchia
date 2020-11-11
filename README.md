@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Full Stack software developer, passionate about creating and innovating in a collaborative way that motivates to keep learning new things. I have experimented with different languages ​​like C, Python, and Javascript, implementing different projects, improving logical thinking. As a team member, listen and attend to ideas, with an attitude of learning, in addition to providing, teaching, and sharing knowledge and skills based on respect; enjoy coding, videogames, and drawing.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/nicolasquinchia/nicolasquinchia/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
