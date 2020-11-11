@@ -25,7 +25,9 @@ Full Stack software developer, passionate about creating and innovating in a col
 
 - 🌱 I’m currently learning ReactJS and NodeJS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@QuichiaNicolas](https://twitter.com/QuinchiaNicolas);
+- 📫 How to reach me: 
+    - Twitter: [@QuichiaNicolas](https://twitter.com/QuinchiaNicolas);
+    - LinkedIn: [nicolasquinchia](https://www.linkedin.com/in/nicolasquinchia/);
 - 📝[Resume]()
 
 **Languages and Tools:**  
