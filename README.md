@@ -28,7 +28,7 @@ Full Stack software developer, passionate about creating and innovating in a col
 - 📫 How to reach me: 
     - Twitter: [@QuichiaNicolas](https://twitter.com/QuinchiaNicolas);
     - LinkedIn: [nicolasquinchia](https://www.linkedin.com/in/nicolasquinchia/);
-- 📝[Resume]()
+- 📝[Resume](https://drive.google.com/file/d/1HbalzMyVJjDwTmAusRFfCZvQSPGEg4kt/view?usp=sharing)
 
 **Languages and Tools:**  
 
