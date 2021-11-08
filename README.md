@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there, I'm Nicolas Quinchia Osorio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&lines=Hey+there%2C+I'm+Nicolas+Quinchia;%3CFront-End+Developer+%2F%3E+!;Always+learning+new+things)](https://git.io/typing-svg)
 
 Full Stack software developer, passionate about creating and innovating in a collaborative way that motivates to keep learning new things. I have experimented with different languages ​​like C, Python, and Javascript, implementing different projects, improving logical thinking. As a team member, listen and attend to ideas, with an attitude of learning, in addition to providing, teaching, and sharing knowledge and skills based on respect; enjoy coding, videogames, and drawing.
 
@@ -25,21 +23,28 @@ Full Stack software developer, passionate about creating and innovating in a col
 
 - 🌱 I’m currently learning ReactJS and NodeJS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: 
+- 📫 Find me at: 
     - Twitter: [@QuichiaNicolas](https://twitter.com/QuinchiaNicolas);
     - LinkedIn: [nicolasquinchia](https://www.linkedin.com/in/nicolasquinchia/);
 - 📝[Resume](https://drive.google.com/file/d/1HbalzMyVJjDwTmAusRFfCZvQSPGEg4kt/view?usp=sharing)
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
+<code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/react-native.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/sass.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
+<code><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+<code><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/git.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/python--v2.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 
+## Stats
 
-
+[![nicolasquinchia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasquinchia)](https://github.com/nicolasquinchia/github-readme-stats)
