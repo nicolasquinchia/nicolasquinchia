@@ -49,4 +49,5 @@ Full Stack software developer, passionate about creating and innovating in a col
 ## Stats
 
 [![nicolasquinchia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasquinchia)](https://github.com/nicolasquinchia/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolasquinchia&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasquinchia&layout=compact)](https://github.com/nicolasquinchia/github-readme-stats)
