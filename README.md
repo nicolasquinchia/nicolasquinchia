@@ -51,8 +51,8 @@ Full Stack software developer, passionate about creating and innovating in a col
 <br />
 <p align="center">
 <a href="https://github.com/nicolasquinchia/github-readme-stats">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=nicolasquinchia&show_icons=true&theme=react&include_all_commits=true" />
-    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasquinchia&layout=compact&theme=react" />
+  <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api?username=nicolasquinchia&show_icons=true&theme=react&include_all_commits=true" />
+    <img height="180em" width="390em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasquinchia&layout=compact&theme=react" />
 </a>
 </p>
 <br />
