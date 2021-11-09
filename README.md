@@ -48,6 +48,12 @@ Full Stack software developer, passionate about creating and innovating in a col
 <code><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></code>
 ## Stats
 
-[![nicolasquinchia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasquinchia)](https://github.com/nicolasquinchia/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolasquinchia&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasquinchia&layout=compact)](https://github.com/nicolasquinchia/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/nicolasquinchia/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasquinchia&show_icons=true&theme=react&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/nicolasquinchia/github-readme-stats">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasquinchia&layout=compact&theme=react" />
+  </a>
+</p>
+
